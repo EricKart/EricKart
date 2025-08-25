@@ -20,6 +20,6 @@ A classification model for bird identification according to their family and typ
 
 ## 📫 Get in Touch
 - LinkedIn: [Aryan Tripathi](https://www.linkedin.com/in/ary-tripathi/)
-- Personal Website: [aryantripathi.dev](https://aryan-tripathi.vercel.app/)
+- Personal Website: [aryantripathi.me]([https://aryan-tripathi.vercel.app/](https://www.aryantripathi.me/))
 
 Thanks for stopping by!
