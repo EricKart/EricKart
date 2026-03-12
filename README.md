@@ -1,5 +1,5 @@
 <h1 align="center">Aryan Tripathi</h1>
-<h3 align="center">CTO Mindset | Product Builder | Systems and Platform Engineer</h3>
+<h3 align="center">Product Builder | Systems and Platform Engineer</h3>
 
 <p align="center">
 	<a href="https://github.com/EricKart"><img src="https://img.shields.io/github/followers/EricKart?label=Followers&style=for-the-badge" alt="Followers" /></a>
