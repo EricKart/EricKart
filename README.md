@@ -38,12 +38,12 @@ I build software with a leadership lens: clear architecture, fast execution, and
 ## Featured Public Repositories
 Only public and non-confidential work is listed below.
 
-- [computerV](https://github.com/EricKart/computerV) - Python-based experimentation project for practical computer vision workflows.
-- [machineLearningK25](https://github.com/EricKart/machineLearningK25) - Machine learning learning-lab repository for model exploration and fundamentals.
-- [Dp-900-notes](https://github.com/EricKart/Dp-900-notes) - Structured Azure data fundamentals notes and reference material.
-- [cosmos-recipe-book](https://github.com/EricKart/cosmos-recipe-book) - CRUD-focused JavaScript project using Azure Cosmos DB as backend storage.
-- [pro-azure-sql-based-to-do](https://github.com/EricKart/pro-azure-sql-based-to-do) - SQL-backed task management app with practical cloud database integration.
-- [terminalSimulator](https://github.com/EricKart/terminalSimulator) - Terminal interaction simulation project focused on systems-style interface behavior.
+- [computerV](https://github.com/EricKart/computerV) - End-to-end Python computer vision repository covering CNN, RNN, and LSTM workflows with structured docs and deployment guidance.
+- [Migratory-bird-classification-using-deep-learning](https://github.com/EricKart/Migratory-bird-classification-using-deep-learning) - Deep learning research project for bird species classification with augmentation, training pipelines, and evaluation flow.
+- [bdriff](https://github.com/EricKart/bdriff) - React application with multi-page routing, componentized UI structure, Firebase integration, and a substantial frontend codebase.
+- [Aero](https://github.com/EricKart/Aero) - Full-stack JavaScript dashboard combining a React frontend with an Express backend that integrates multiple external APIs.
+- [pro-azure-sql-based-to-do](https://github.com/EricKart/pro-azure-sql-based-to-do) - Full-stack Node.js task manager with Azure SQL, Express backend logic, responsive frontend, and deployment-oriented setup.
+- [deliveryPartnerRESTAPI](https://github.com/EricKart/deliveryPartnerRESTAPI) - Express-based delivery API project with route handling and deployable backend structure for logistics-style calculations.
 
 ## Leadership Principles
 - Build for clarity first, then optimize aggressively
