@@ -43,7 +43,7 @@
 
 ### about
 
-Full-stack engineer and deep learning researcher based in Gurugram, India.
+Cloud Infrastructure Architect | Distributed Systems, Autoscaling & Terraform | AWS & Azure Solutions | MCT based in Gurugram, India.
 
 I work on production systems — APIs, ML pipelines, platforms where reliability matters. 97 repositories in, two Azure certifications, and still picking up new things every week.
 
